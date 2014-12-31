@@ -103,6 +103,7 @@ header h2 {
 }
 
 a.button {
+width: 100%;
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;                     
   border-radius: 30px;
@@ -117,7 +118,6 @@ a.button {
   padding: 12px 8px 12px 8px;
   display: block;
   float: left;
-  width: 179px;
   margin-right: 14px;  
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
